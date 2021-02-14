@@ -1,0 +1,4 @@
+10.2.2021.class.vpc2
+1.cidr calculation,
+route table,
+

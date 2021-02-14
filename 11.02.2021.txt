@@ -1,0 +1,2 @@
+11.02.2021.12.02.2021.class vpc2
+create the vpc and steps and cidr rangelab and nacl 
